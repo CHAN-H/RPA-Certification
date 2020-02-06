@@ -9,7 +9,7 @@ Here are the steps performed by the Robot:
 1.Log in to https://www.acme-test.com.  
 2.On the landing page, Dashboard, click on the Work items menu item. Scrape the data in all the pages of the table, page by page, ensuring error handling and recovery. 
 3.For each page:  
-▶Filter the records where Status is 'Open'; 
+▶Filter the records where Status is 'Open';  
 ▶Filter the records where Type is 'WI1';   
 ▶Filter the records where WIID is greater than 200000;  
 ▶Append the resulting datatable into an Excel worksheet, you shouldn't worry about the headers and format of the output file. 
