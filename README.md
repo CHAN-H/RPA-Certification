@@ -1,5 +1,7 @@
 RPA Developer Advanced Certification - Exam #2  
-Exercise  
+
+Exercise
+
 In this exercise, you will create a UiPath automation that performs the steps below. To achieve this, you will use the REFrameWork as the starting template and follow the UiPath development best practices.
   
 Here are the steps performed by the Robot:
